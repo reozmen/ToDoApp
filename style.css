@@ -58,3 +58,7 @@ hr {
     border: white;
 
 }
+
+#inputLabel {
+    display: block;
+}
